@@ -1,2 +1,2 @@
 ### 技术交流群
-
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=d891561383c20854251e7195dff72b30288962fd53275e9243e4c726d8fd9a4e"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="前端联盟" title="前端联盟"></a>
