@@ -1,0 +1,34 @@
+{
+  "name": "issuesblog",
+  "version": "0.0.0",
+  "description": "my issues blog",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./script/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnipbao/iblog.git"
+  },
+  "keywords": [
+    "issues",
+    "iblog",
+    "blog"
+  ],
+  "author": "gnipbao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnipbao/iblog/issues"
+  },
+  "homepage": "https://github.com/gnipbao/iblog#readme",
+  "devDependencies": {
+    "chalk": "^2.3.0"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "markdown-it": "^8.4.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
