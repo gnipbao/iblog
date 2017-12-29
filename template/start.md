@@ -1,6 +1,5 @@
 
 # *my issues blog*
-> To follow the path:
 >  look to the master,
 >  follow the master,
 >  walk with the master,
