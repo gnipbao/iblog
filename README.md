@@ -8,7 +8,9 @@
 ## 文章列表
 
 
-#### 2017-12-29
+#### 2018-01-26
+[HTTP状态码查询表](https://github.com/gnipbao/iblog/issues/21)
+#### 2018-01-02
 [深入理解Event Loop](https://github.com/gnipbao/iblog/issues/20)
 #### 2017-12-16
 [github如何向开源项目提交pr](https://github.com/gnipbao/iblog/issues/19)
@@ -20,7 +22,7 @@
 [Uint8Array to string in Javascript](https://github.com/gnipbao/iblog/issues/16)
 #### 2017-10-16
 [vim速查手册](https://github.com/gnipbao/iblog/issues/15)
-#### 2017-09-27
+#### 2018-01-26
 [javascript函数式编程](https://github.com/gnipbao/iblog/issues/14)
 #### 2017-08-24
 [javascript函数式编程术语](https://github.com/gnipbao/iblog/issues/13)
@@ -30,7 +32,7 @@
 [ 视频H5 video标签最佳实践](https://github.com/gnipbao/iblog/issues/11)
 #### 2017-04-15
 [JavaScript Promise](https://github.com/gnipbao/iblog/issues/10)
-#### 2017-09-19
+#### 2018-01-15
 [JavaScript闭包以及常见用法](https://github.com/gnipbao/iblog/issues/9)
 #### 2017-04-15
 [JavaScript函数的特性系列目录](https://github.com/gnipbao/iblog/issues/8)

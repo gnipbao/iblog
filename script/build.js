@@ -7,7 +7,7 @@ const issuesUrl = 'https://api.github.com/repos/gnipbao/iblog/issues';
 const options = {
   uri: issuesUrl,
   qs: {
-    access_token: 'cc08d725caf1c7177f4503993e81be7817c703f7'//access token
+    access_token: '8275d52f1c77f9da8df09bcf0243e5e56e00314f'// access token
   },
   headers: {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'
