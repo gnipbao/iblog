@@ -8,6 +8,8 @@
 ## 文章列表
 
 
+#### 2018-02-07
+[GDB常用命令速查表](https://github.com/gnipbao/iblog/issues/22)
 #### 2018-01-26
 [HTTP状态码查询表](https://github.com/gnipbao/iblog/issues/21)
 #### 2018-01-02
@@ -28,7 +30,7 @@
 [javascript函数式编程术语](https://github.com/gnipbao/iblog/issues/13)
 #### 2017-05-19
 [设计模式](https://github.com/gnipbao/iblog/issues/12)
-#### 2017-12-22
+#### 2018-02-07
 [ 视频H5 video标签最佳实践](https://github.com/gnipbao/iblog/issues/11)
 #### 2017-04-15
 [JavaScript Promise](https://github.com/gnipbao/iblog/issues/10)
