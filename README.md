@@ -8,11 +8,15 @@
 ## 文章列表
 
 
+#### 2018-03-23
+[mac 解决下brew安装python3的一系列权限问题](https://github.com/gnipbao/iblog/issues/24)
+#### 2018-03-18
+[Nginx常用配置详解](https://github.com/gnipbao/iblog/issues/23)
 #### 2018-02-07
 [GDB常用命令速查表](https://github.com/gnipbao/iblog/issues/22)
-#### 2018-01-26
+#### 2018-03-09
 [HTTP状态码查询表](https://github.com/gnipbao/iblog/issues/21)
-#### 2018-01-02
+#### 2018-03-05
 [深入理解Event Loop](https://github.com/gnipbao/iblog/issues/20)
 #### 2017-12-16
 [github如何向开源项目提交pr](https://github.com/gnipbao/iblog/issues/19)
@@ -30,7 +34,7 @@
 [javascript函数式编程术语](https://github.com/gnipbao/iblog/issues/13)
 #### 2017-05-19
 [设计模式](https://github.com/gnipbao/iblog/issues/12)
-#### 2018-02-07
+#### 2018-05-17
 [ 视频H5 video标签最佳实践](https://github.com/gnipbao/iblog/issues/11)
 #### 2017-04-15
 [JavaScript Promise](https://github.com/gnipbao/iblog/issues/10)
