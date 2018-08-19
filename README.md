@@ -8,13 +8,21 @@
 ## 文章列表
 
 
+#### 2018-07-21
+[CentOS7中防火墙的一些常用配置介绍](https://github.com/gnipbao/iblog/issues/28)
+#### 2018-06-12
+[video标签在不同平台上差异分析](https://github.com/gnipbao/iblog/issues/27)
+#### 2018-06-19
+[EME WTF？ 加密媒体扩展介绍](https://github.com/gnipbao/iblog/issues/26)
+#### 2018-08-08
+[chrome 66自动播放策略改变](https://github.com/gnipbao/iblog/issues/25)
 #### 2018-03-23
 [mac 解决下brew安装python3的一系列权限问题](https://github.com/gnipbao/iblog/issues/24)
 #### 2018-03-18
 [Nginx常用配置详解](https://github.com/gnipbao/iblog/issues/23)
 #### 2018-02-07
 [GDB常用命令速查表](https://github.com/gnipbao/iblog/issues/22)
-#### 2018-03-09
+#### 2018-06-18
 [HTTP状态码查询表](https://github.com/gnipbao/iblog/issues/21)
 #### 2018-03-05
 [深入理解Event Loop](https://github.com/gnipbao/iblog/issues/20)
@@ -34,7 +42,7 @@
 [javascript函数式编程术语](https://github.com/gnipbao/iblog/issues/13)
 #### 2017-05-19
 [设计模式](https://github.com/gnipbao/iblog/issues/12)
-#### 2018-05-17
+#### 2018-06-12
 [ 视频H5 video标签最佳实践](https://github.com/gnipbao/iblog/issues/11)
 #### 2017-04-15
 [JavaScript Promise](https://github.com/gnipbao/iblog/issues/10)
