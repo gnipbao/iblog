@@ -8,7 +8,7 @@ const options = {
   uri: issuesUrl,
   qs: {
     access_token: '8275d52f1c77f9da8df09bcf0243e5e56e00314f',// access token
-    sort: 'updated'
+    sort: 'created'
   },
   headers: {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'
@@ -44,9 +44,9 @@ try {
     for(let i of data){
       console.log(`${chalk.green('title')}->${i.title}`);
       console.log(`${chalk.green('url')}->${i.html_url}`);
-      let updateDate = i.updated_at.split('T')[0];
-      console.log(`${chalk.green('updated_at')}->${updateDate}`);
-      output += `#### ${updateDate}\n`;
+      let createdDate = i.created_at.split('T')[0];
+      console.log(`${chalk.green('created_at')}->${createdDate}`);
+      output += `#### ${createdDate}\n`;
       output += `[${i.title}](${i.html_url})`;
       output += `\n`
     }
