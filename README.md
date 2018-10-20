@@ -1,13 +1,25 @@
 
-# *my issues blog*
->  look to the master,
->  follow the master,
->  walk with the master,
->  see through the master,
->  become the master.
-## 文章列表
+## *Blog*
+#### 个人博客欢迎订阅(watch)讨论交流技术问题
+
+**how to become master?**
+
+**look to the master,**
+
+**follow the master,**
+
+**walk with the master,**
+
+**see through the master,**
+
+**become the master.**
 
 
+### Article list
+
+
+#### 2018-10-02
+[C语言运算符优先级巧记](https://github.com/gnipbao/iblog/issues/31)
 #### 2018-09-15
 [如何使用JavaScript检测浏览器是否支持flash以及显示flash版本](https://github.com/gnipbao/iblog/issues/30)
 #### 2018-09-13
@@ -66,7 +78,5 @@
 [黑客精神](https://github.com/gnipbao/iblog/issues/3)
 #### 2017-04-14
 [javascript模块化编程](https://github.com/gnipbao/iblog/issues/2)
-#### 2017-03-14
-[js常见排序算法](https://github.com/gnipbao/iblog/issues/1)
 ***************
 [⬆ back to top](#文章列表)
