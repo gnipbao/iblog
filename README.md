@@ -13,6 +13,8 @@
 ## 文章列表
 
 
+#### 2019-01-29
+[ffmpeg常用命令](https://github.com/gnipbao/iblog/issues/32)
 #### 2018-10-02
 [C语言运算符优先级巧记](https://github.com/gnipbao/iblog/issues/31)
 #### 2018-09-15
@@ -71,7 +73,5 @@
 [Markdown简明语法手册](https://github.com/gnipbao/iblog/issues/4)
 #### 2017-04-15
 [黑客精神](https://github.com/gnipbao/iblog/issues/3)
-#### 2017-04-14
-[javascript模块化编程](https://github.com/gnipbao/iblog/issues/2)
 ***************
 [⬆ back to top](#文章列表)
