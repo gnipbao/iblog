@@ -6,7 +6,7 @@ const got = require('got'),
 const issuesUrl = 'https://api.github.com/repos/gnipbao/iblog/issues';
 const options = {
   searchParams: {
-    access_token: '0438465118d9a466d11993c3f8b6a30e35e14ecd', // access token
+    access_token: '0ddac7deb4b862f6457ff44ea054cd2e5015ee3f', // access token
     // sort: 'created',
   },
   headers: {
