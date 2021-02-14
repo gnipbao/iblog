@@ -27,8 +27,7 @@
   },
   "dependencies": {
     "fs-extra": "^5.0.0",
-    "markdown-it": "^8.4.0",
-    "request": "^2.83.0",
-    "request-promise": "^4.2.2"
+    "got": "^11.8.1",
+    "markdown-it": "^8.4.0"
   }
 }
