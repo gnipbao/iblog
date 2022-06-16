@@ -28,6 +28,6 @@
   "dependencies": {
     "fs-extra": "^5.0.0",
     "got": "^11.8.1",
-    "markdown-it": "^8.4.0"
+    "markdown-it": "^12.3.2"
   }
 }
